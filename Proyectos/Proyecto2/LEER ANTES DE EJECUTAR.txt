@@ -1,0 +1,5 @@
+Por favor, agregar las imágenes a trabajar en una carpeta llamada 'imagenes'
+
+El archivo es muy pesado para agregar a Github, no se pudo reducir el tamaño de este.
+
+Gracias.
